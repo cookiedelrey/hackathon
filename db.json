@@ -1,3 +1,18 @@
 {
-  "elements": []
+  "elements": [
+    {
+      "name": "DOC-1545",
+      "type": "Dealership",
+      "link": "https://cdnn21.img.ria.ru/images/07e5/0b/02/1757363433_0:0:1241:1240_1440x0_80_0_0_d609150f223c27f1e1bfeaff62c06728.jpg",
+      "id": 1,
+      "status": "Ready"
+    },
+    {
+      "name": "DOC-545",
+      "type": "Dealership",
+      "status": "Not ready  yet",
+      "link": "https://adm-saki.ru/wp-content/uploads/2021/04/94b7d85bea7d8b44bd49253a73032f90.jpg",
+      "id": 2
+    }
+  ]
 }
